@@ -1,5 +1,5 @@
 /* echo.c - echo user input */
-/* Created by John Doe */
+/* Shé Edwards */
 /* Last updated: 3/23/18 */
 
 #include <stdio.h>
